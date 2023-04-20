@@ -1,0 +1,2 @@
+# Restaurant Recommendation System using Pre-trained BERT and Feedforward Network
+This project is a restaurant recommendation system that uses pre-trained BERT and a feedforward network to recommend restaurants to users based on their points and side information. The system uses Yelp dataset that includes the restaurant's attributes such as cuisine, price range, and location in addition to user points to generate recommendations.
